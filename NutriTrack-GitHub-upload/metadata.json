@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack - 식단 탄단칼 기록 및 엑셀 리포트",
+  "description": "오늘 먹은 음식을 기록하여 탄수화물, 단백질, 칼로리를 실시간 계산하고 전문 엑셀(XLSX) 보고서로 정리해 주는 건강 관리 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
